@@ -46,6 +46,33 @@
             android:background="#ff0000"
             android:orientation="vertical">
 
+            <Button
+                android:id="@+id/button_send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="press for layout ui_"
+                android:background="#e0e0e0"
+                android:gravity="center"
+                android:padding="20dp"
+
+
+
+                />
+
+            <Button
+                android:id="@+id/button_send1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="press for layout second"
+                android:background="#e0e0e0"
+                android:layout_gravity="top"
+                android:gravity="right"
+                android:layout_margin="0dp"
+                android:padding="20dp"
+
+
+                />
+
         </LinearLayout>
 
     </LinearLayout>
